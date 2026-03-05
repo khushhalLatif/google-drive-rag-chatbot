@@ -31,7 +31,7 @@
       "name": "Google Drive Trigger",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "rUncjwcciKcncLMP",
+          "id": "",
           "name": "Google Drive account"
         }
       }
@@ -56,7 +56,7 @@
       "name": "Download RAG file",
       "credentials": {
         "googleDriveOAuth2Api": {
-          "id": "rUncjwcciKcncLMP",
+          "id": "",
           "name": "Google Drive account"
         }
       }
@@ -85,7 +85,7 @@
       "name": "Pinecone Vector Store",
       "credentials": {
         "pineconeApi": {
-          "id": "2aRlRRrhmJpPE5Rd",
+          "id": "",
           "name": "PineconeApi account"
         }
       }
@@ -106,7 +106,7 @@
       "name": "Embeddings OpenAI",
       "credentials": {
         "openAiApi": {
-          "id": "Z2oNN85CX8BAkGUL",
+          "id": "",
           "name": "n8n free OpenAI API credits"
         }
       }
@@ -166,7 +166,7 @@
       "name": "DeepSeek Chat Model",
       "credentials": {
         "deepSeekApi": {
-          "id": "XQJOvUFQ3esyM3vL",
+          "id": "",
           "name": "DeepSeek account"
         }
       }
@@ -195,7 +195,7 @@
       "name": "Pinecone Vector Store1",
       "credentials": {
         "pineconeApi": {
-          "id": "2aRlRRrhmJpPE5Rd",
+          "id": "",
           "name": "PineconeApi account"
         }
       }
@@ -216,7 +216,7 @@
       "name": "Embeddings OpenAI1",
       "credentials": {
         "openAiApi": {
-          "id": "Z2oNN85CX8BAkGUL",
+          "id": "",
           "name": "n8n free OpenAI API credits"
         }
       }
